@@ -6,7 +6,7 @@
 
 💼 Open to collaboration on exciting projects where I can contribute my expertise and learn from fellow developers.
 
-📧 Reach out to me at vaibhav.tmu44@gmail.com to discuss opportunities or simply geek out over code!
+📧 Reach out to me at vaibhavvishwkarma167@gmail.com to discuss opportunities or simply geek out over code!
 
 😄 Pronouns: He/Him
 
