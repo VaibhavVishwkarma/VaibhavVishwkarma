@@ -1,6 +1,6 @@
 👋 Hello there, I’m Vaibhav Vishwkarma!
 
-🌟 Passionate about web development, I'm diving into the realms of HTML, CSS, and JavaScript to craft immersive digital experiences.
+🌟 Passionate about Web and Data Science.
 
 🌱 Currently honing my skills and expanding my knowledge base in the ever-evolving world of web technologies.
 
