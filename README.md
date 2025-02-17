@@ -2,7 +2,7 @@
 
 🌟 Passionate about Web and Data Science.
 
-🌱 Currently honing my skills and expanding my knowledge base in the ever-evolving world of web technologies.
+🌱 Currently honing my skills and expanding my knowledge base in the ever-evolving world of web and data analysis technologies.
 
 💼 Open to collaboration on exciting projects where I can contribute my expertise and learn from fellow developers.
 
